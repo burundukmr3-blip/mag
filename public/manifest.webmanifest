@@ -1,0 +1,11 @@
+{
+  "name": "Своя игра",
+  "short_name": "Своя игра",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#0b1a4a",
+  "theme_color": "#0b1a4a",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
